@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{32742B76-171B-0504-95E0-53E84AA43D1D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Syncit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="128" Column="5" />
+      <File FileName="Assets/Scripts/Syncit.cs" Line="85" Column="1" />
+      <File FileName="Assets/Chunity/Scripts/ChuckMainInstance.cs" Line="10" Column="14" />
+      <File FileName="Assets/Scripts/grooveImageShift.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/BlueTileManager.cs" Line="32" Column="55" />
+      <File FileName="Assets/Scripts/HiddenTileHandler.cs" Line="36" Column="63" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
